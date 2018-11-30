@@ -1,0 +1,16 @@
+1. TASK
+   The task is to develop simple console java application that finds all possible moves available for checkers in a game checkers (https://en.wikipedia.org/wiki/English_draughts).
+   Output: the list of all possible moves.
+
+2. BUILDING
+    - mvn clean package
+
+3. TESTING:
+    - mvn test
+
+4. USAGE:
+    - cd target
+    - java -jar checkers-0.1.jar
+
+Apache Maven: 3.2.1
+Java version: 1.7.0_80, vendor: Oracle Corporation
